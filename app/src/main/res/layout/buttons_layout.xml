@@ -20,7 +20,7 @@
             android:layout_columnWeight="1"
 
             android:layout_margin="3dp"
-            android:backgroundTint="#D36135"
+            android:backgroundTint="#6C3DEF"
             android:onClick="borrar"
             android:text="CA"
             android:textSize="24sp" />
@@ -34,7 +34,7 @@
             android:layout_columnWeight="1"
 
             android:layout_margin="3dp"
-            android:backgroundTint="#D36135"
+            android:backgroundTint="#6C3DEF"
             android:onClick="borrar"
             android:text="C"
             android:textSize="24sp" />
@@ -48,7 +48,7 @@
             android:layout_columnWeight="1"
 
             android:layout_margin="3dp"
-            android:backgroundTint="#D36135"
+            android:backgroundTint="#6C3DEF"
             android:onClick="cambiarOperador"
             android:text="%"
             android:textSize="24sp" />
@@ -61,7 +61,7 @@
             android:layout_column="3"
             android:layout_columnWeight="1"
             android:layout_margin="3dp"
-            android:backgroundTint="#D36135"
+            android:backgroundTint="#6C3DEF"
             android:onClick="cambiarOperador"
             android:text="÷"
             android:textSize="24sp" />
@@ -125,7 +125,7 @@
             android:layout_columnWeight="1"
 
             android:layout_margin="3dp"
-            android:backgroundTint="#D36135"
+            android:backgroundTint="#6C3DEF"
             android:onClick="cambiarOperador"
             android:text="X"
             android:textSize="24sp" />
@@ -190,7 +190,7 @@
             android:layout_columnWeight="1"
 
             android:layout_margin="3dp"
-            android:backgroundTint="#D36135"
+            android:backgroundTint="#6C3DEF"
             android:onClick="cambiarOperador"
             android:text="-"
             android:textSize="24sp" />
@@ -252,7 +252,7 @@
             android:layout_columnWeight="1"
 
             android:layout_margin="3dp"
-            android:backgroundTint="#D36135"
+            android:backgroundTint="#6C3DEF"
             android:onClick="cambiarOperador"
             android:text="+"
             android:textSize="24sp" />
@@ -301,7 +301,7 @@
 
             android:layout_columnWeight="2"
             android:layout_margin="3dp"
-            android:backgroundTint="#D36135"
+            android:backgroundTint="#6C3DEF"
             android:onClick="igual"
             android:text="="
             android:textSize="24sp" />
